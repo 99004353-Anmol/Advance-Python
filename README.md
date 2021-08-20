@@ -29,7 +29,7 @@ You will be allowed to choose PS_NO and Category for which you want to fetch dat
 * Clone of this repository
 
 ### To clone and run the project follow the below steps: 
-* Download and unzip the source repository for this guide, or clone it using Git: git clone https://github.com/anmol-tandon/99004353_Advance_Python.git
+* Download and unzip the source repository for this guide, or clone it using Git: git clone https://github.com/99004353-Anmol/Advance-Python.git
 * cd to Implementation 
 * open `main.py` file and execute the file
 
